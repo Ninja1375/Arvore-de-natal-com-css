@@ -10,20 +10,17 @@ A animação foi criada utilizando somente HTML e CSS. A árvore de Natal possui
 
 **[Árvore de Natal com CSS](ttt)**
 
+
 > **Nota:** As luzes são animadas e se movem ao redor da árvore. Experimente abrir o projeto no navegador para ver a animação completa.
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML**: Estrutura básica da árvore.
-- **CSS**: Estilo visual e animações das luzes.
-- **JavaScript**: Lógica para movimentar as luzes.
+- **CSS**: Estilo visual e animações da árvore e suas luzes.
 
 ## 📂 Estrutura do Projeto
 
 ```plaintext
 ├── index.html         # Estrutura do HTML
-├── styles.css         # Estilos e animações
-├── script.js          # Lógica das luzes giratórias
-├── assets/
-│   └── screenshot.png # Captura de tela da árvore
+├── style.css         # Estilos e animações
 └── README.md          # Documentação do projeto
