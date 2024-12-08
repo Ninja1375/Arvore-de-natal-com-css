@@ -26,15 +26,13 @@ A animação foi criada utilizando somente HTML e CSS. A árvore de Natal possui
 ├── style.css         # Estilos e animações
 └── README.md          # Documentação do projeto
 ```
-🔧 Como Usar
+## 🔧 Como Usar
 
-Clone o repositório:
+**Clone o repositório:**
 
-bash
+```bash
 
-Copiar código
-
-git clone https://github.com/seu-usuario/arvore-natal-animada.git 
+git clone https://github.com/Ninja1375/Arvore-de-natal-com-css.git 
 
 Navegue até o diretório do projeto:
 
