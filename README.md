@@ -26,3 +26,32 @@ A animação foi criada utilizando somente HTML e CSS. A árvore de Natal possui
 ├── style.css         # Estilos e animações
 └── README.md          # Documentação do projeto
 ```
+🔧 Como Usar
+
+Clone o repositório:
+
+bash
+
+Copiar código
+
+git clone https://github.com/seu-usuario/arvore-natal-animada.git 
+
+Navegue até o diretório do projeto:
+
+bash
+
+Copiar código
+
+cd arvore-natal-animada 
+
+Abra o arquivo index.html em seu navegador favorito.
+
+✨ Demonstração ao Vivo
+
+Veja o projeto funcionando ao vivo: Árvore de Natal Animada
+
+🛠️ PersonalizaçãoCores das luzes: No arquivo styles.css, altere as propriedades background-color dos elementos que representam as luzes.Velocidade da animação: Ajuste o valor do animation-duration para modificar a velocidade do movimento das luzes.Tamanho da árvore: Edite a largura e altura da árvore na classe .tree em styles.css.🎅 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
+
+Divirta-se e boas festas! 🎄
