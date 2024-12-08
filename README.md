@@ -1,16 +1,14 @@
-# Árvore de Natal Animada 🎄
+# 🎄 Árvore de Natal com CSS
 
 Este projeto é uma árvore de Natal estilizada, com luzes que giram ao seu redor, criando um efeito visual impressionante e festivo.
 
 ## 📋 Descrição
 
-A animação foi criada utilizando HTML, CSS e JavaScript. A árvore de Natal possui um design minimalista, com luzes coloridas que se movem em torno da árvore em um movimento circular contínuo. Além disso, uma estrela dourada no topo dá um toque especial.
+A animação foi criada utilizando somente HTML e CSS. A árvore de Natal possui um design minimalista, com luzes coloridas que se movem em torno da árvore em um movimento circular contínuo. Além disso, uma estrela dourada no topo dá um toque especial.
 
-## 🖼️ Visualização
+## 🖼️ Demonstração
 
-Abaixo está uma captura de tela da árvore de Natal animada:
-
-![Árvore de Natal](./assets/screenshot.png)
+**[Árvore de Natal com CSS](ttt)**
 
 > **Nota:** As luzes são animadas e se movem ao redor da árvore. Experimente abrir o projeto no navegador para ver a animação completa.
 
