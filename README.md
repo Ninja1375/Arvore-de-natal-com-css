@@ -42,8 +42,8 @@ cd Arvore-de-natal-com-css
 ```
 **Abra o arquivo ```index.html``` em seu navegador favorito.**
 
-🛠️ PersonalizaçãoCores das luzes: No arquivo styles.css, altere as propriedades background-color dos elementos que representam as luzes.Velocidade da animação: Ajuste o valor do animation-duration para modificar a velocidade do movimento das luzes.Tamanho da árvore: Edite a largura e altura da árvore na classe .tree em styles.css.🎅 Contribuições
+## 🎅 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
 
-Divirta-se e boas festas! 🎄
+**Divirta-se e boas festas! 🎄**
