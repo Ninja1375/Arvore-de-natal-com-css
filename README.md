@@ -10,6 +10,7 @@ A animação foi criada utilizando somente HTML e CSS. A árvore de Natal possui
 
 **[Árvore de Natal com CSS](https://ninja1375.github.io/Arvore-de-natal-com-css/)**
 
+![Árvore de Natal com CSS ](https://github.com/user-attachments/assets/cf2f044a-e16d-4101-aa98-8740ae386ccc)
 
 > [!NOTE]
 > As luzes são animadas e se movem ao redor da árvore. Experimente abrir o projeto no navegador para ver a animação completa.
